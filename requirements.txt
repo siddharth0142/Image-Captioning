@@ -1,0 +1,5 @@
+TensorFlow
+Keras
+OpenCV
+NumPy
+pyttsx3
